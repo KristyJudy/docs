@@ -3,6 +3,7 @@ title: CommCare HQ
 ---
 
 ## Push cases and/or forms from CommCare to OpenFn
+In CommCare:
 
 1. Go to "Project Settings".
 2. Click "Data Forwarding".
